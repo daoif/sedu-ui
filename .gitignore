@@ -1,5 +1,5 @@
-# 内部文档（不公开）
-INTERNAL.md
+# 内部内容（不公开）
+.internal/
 
 # 依赖
 node_modules/
